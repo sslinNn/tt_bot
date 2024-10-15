@@ -11,4 +11,4 @@ def getLocationFromCoordinates(TOKEN: str, latitude: float, longitude: float):
 
 
 if __name__ == '__main__':
-    print(getLocationFromCoordinates(TOKEN="670a91a046e1e390106574xuj12d35a", latitude=50.43477, longitude=30.53375))
+    print(getLocationFromCoordinates(TOKEN="...", latitude=50.43477, longitude=30.53375))
